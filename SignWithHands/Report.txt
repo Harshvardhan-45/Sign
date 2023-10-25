@@ -1,0 +1,25 @@
+Epoch 50
+0.7724637681159421
+
+
+
+Epoch 100
+0.8492753623188406
+
+
+150 128 20
+76
+
+200 128 20
+0.8576086956521739
+
+250 
+0.8815217391304347
+
+300
+
+
+tuner
+{'1stLunits': 160, '1stactivation': 'selu', 'lstm_layers': 1, 'Lunits0': 384, 'Lactivation0': 'tanh', 'MLunits': 480, 'MLactivation': 'leaky_relu', 'dense_layers': 2, 'Dunits0': 384, 'Dactivation0': 'leaky_relu', 'optimizer': 'nadam', 'Lunits1': 384, 'Lactivation1': 'selu', 'Lunits2': 288, 'Lactivation2': 'leaky_relu', 'Lunits3': 64, 'Lactivation3': 'leaky_relu', 'Lunits4': 32, 'Lactivation4': 'leaky_relu', 'Dunits1': 480, 'Dactivation1': 'relu', 'Dunits2': 448, 'Dactivation2': 'relu', 'Dunits3': 448, 'Dactivation3': 'tanh', 'Dunits4': 96, 'Dactivation4': 'tanh'}
+
+

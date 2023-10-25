@@ -1,0 +1,5 @@
+1 tuner
+
+{'units': 8, '1stLunits': 288, '1stactivation': 'relu', 'lstm_layers': 3, 'Lunits0': 416, 'activation0': 'relu', 'MLunits': 32, 'Mactivation': 'relu', 'dense_layers': 3, 'optimizer': 'nadam', 'Lunits1': 512, 'activation1': 'selu', 'Lunits2': 224, 'activation2': 'leaky_relu', 'Lunits3': 448, 'activation3': 'leaky_relu', 'Lunits4': 224, 'activation4': 'relu'}
+
+{'units': 8, '1stLunits': 288, '1stactivation': 'relu', 'lstm_layers': 3, 'Lunits0': 416, 'activation0': 'relu', 'MLunits': 32, 'Mactivation': 'relu', 'dense_layers': 3, 'optimizer': 'nadam', 'Lunits1': 512, 'activation1': 'selu', 'Lunits2': 224, 'activation2': 'leaky_relu', 'Lunits3': 448, 'activation3': 'leaky_relu', 'Lunits4': 224, 'activation4': 'relu'}
